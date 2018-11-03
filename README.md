@@ -1,1 +1,2 @@
-# imp_Memory_Allocations
+# Implementation of memory allocations in C
+## malloc() calloc() free() ..
